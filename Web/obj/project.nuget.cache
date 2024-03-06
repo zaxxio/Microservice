@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "CLfXQo2KN5zeCG9rGiETV6jlpG3dnNk0ic1yR9RTkaZyU098AVLvgp+rmBIizKBoXT48e1U0L0kNgZvUjUZUWw==",
+  "success": true,
+  "projectFilePath": "/Users/partha/RiderProjects/Microservice/Web/Web.csproj",
+  "expectedPackageFiles": [
+    "/Users/partha/.nuget/packages/autofac/8.0.0/autofac.8.0.0.nupkg.sha512",
+    "/Users/partha/.nuget/packages/autofac.extensions.dependencyinjection/9.0.0/autofac.extensions.dependencyinjection.9.0.0.nupkg.sha512",
+    "/Users/partha/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "/Users/partha/.nuget/packages/system.diagnostics.diagnosticsource/7.0.2/system.diagnostics.diagnosticsource.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
